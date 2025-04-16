@@ -1,5 +1,4 @@
 # Building a Multimodal Platform with Vue
-
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_zh.md">简体中文</a> 
@@ -93,7 +92,7 @@ npm test
 releases! 🌟
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/UMIntelligence/platform_multimodal_frontend/tree/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3462.gif" width="1200"/>
+<img src="https://github.com/UMIntelligence/platform_multimodal_frontend/blob/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3462.gif" width="1200"/>
 </div>
 
 
