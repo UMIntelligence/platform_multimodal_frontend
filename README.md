@@ -86,3 +86,18 @@ npm run e2e
 # Run all tests
 npm test
 ```
+
+## Module Navigation
+
+### Repositories of Multi - Terminal and Functional Modules
+| Module Type      | Module Name      | Code Repository Link                          | Description           |
+|------------------|------------------|-----------------------------------------------|-----------------------|
+| Front - end Platform | PC Front - end   | [platform_multimodal_frontend](https://github.com/UMIntelligence/platform_multimodal_frontend)       | PC front - end code repository |
+|                  | Mini - Program   | [umi_platform_mini_program](https://github.com/ymzn3820/umi_platform_mini_program)    | WeChat mini - program code repository |
+|                  | H5 Terminal      | [umi_platform_h5](https://github.com/ymzn3820/umi_platform_h5)                     | H5 mobile - end code repository |
+| Back - end Functional Modules | Payment Module   | [umi_platform_pay_module](https://github.com/ymzn3820/umi_platform_pay_module)       | Core module of the payment system |
+|                  | User Module      | [umi_platform_user_module](https://github.com/ymzn3820/umi_platform_user_module)       | User center service module |
+|                  | Chat Module      | [platform_multimodal](https://github.com/UMIntelligence/platform_multimodal)      | Core module of instant messaging |
+
+## License
+This project uses the **BSD 3 - Clause License** open - source license. For details, see the [LICENSE](LICENSE) file.
