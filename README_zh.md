@@ -86,14 +86,16 @@ npm run e2e
 # 运行所有测试
 npm test
 ```
+
 ## 🎉 Stay Tuned
 
 ⭐️ Star our repository to stay up-to-date with exciting new features and improvements! Get instant notifications for new
 releases! 🌟
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://github.com/UMIntelligence/platform_multimodal_frontend/tree/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3462.gif" width="1200"/>
+<img src="https://github.com/UMIntelligence/platform_multimodal_frontend/blob/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3462.gif" width="1200"/>
 </div>
+
 
 
 ## 模块导航
