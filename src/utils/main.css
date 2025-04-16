@@ -1,0 +1,18 @@
+.footer-inp_img .el-textarea__inner {
+  border: 0px !important;
+}
+.input_area .el-input__inner {
+  border: 0px !important;
+}
+/* 全局滚动条样式 */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #f2f2f2;
+}
+
+.scrollbar{
+  scrollbar-width: thin;
+} 
