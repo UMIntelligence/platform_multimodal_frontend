@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/UMIntelligence/platform_multimodal/blob/main/assets/7ccaf2c1-9b72-41ae-9a89-5688c94b7abe.png" alt="platform multimodal">
+  <img src="https://github.com/UMIntelligence/platform_multimodal_frontend/blob/main/assets/3ed4e296-fbf2-4618-9011-8eca26fe3461.png" alt="platform multimodal">
 </div>
 
 **Experience Address**: [https://ai.umi6.com](https://ai.umi6.com)
