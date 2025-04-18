@@ -1,8 +1,10 @@
 # Building a Multimodal Platform with Vue
+
 <p align="center">
-  <a href="./README.md">English</a> |
-  <a href="./README_zh.md">简体中文</a> 
+  <a href="./README_cn.md">English</a> |
+  <a href="./README.md">简体中文</a> 
 </p>
+
 <div align="center">
   <br>
   <img src="https://github.com/UMIntelligence/platform_multimodal/blob/main/assets/7ccaf2c1-9b72-41ae-9a89-5688c94b7abe.png" alt="platform multimodal">
