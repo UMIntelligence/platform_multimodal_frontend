@@ -1,4 +1,4 @@
-# Vue 搭建多模态平台
+# Vue 搭建内容管理系统
 
 <p align="center">
   <a href="./README_cn.md">English</a> |

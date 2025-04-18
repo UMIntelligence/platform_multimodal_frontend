@@ -1,4 +1,4 @@
-# Building a Multimodal Platform with Vue
+# Building a Content Management System with Vue
 
 <p align="center">
   <a href="./README_cn.md">English</a> |
